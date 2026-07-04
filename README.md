@@ -1,10 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ícaro%20Gabriel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Brasil%20🇧🇷&descAlignY=55&descAlign=50" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Ícaro%20Gabriel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Brasil%20🇧🇷&descAlignY=55&descAlign=50" />
-</picture>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C9CE8&center=true&vCenter=true&width=600&lines=Codando+com+apoio+de+IA+%28Claude+Code%29+%F0%9F%A4%96;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Web+%2B+Mobile+%2B+Backend;Aberto+a+colabora%C3%A7%C3%B5es+e+novos+projetos!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C9CE8&center=true&vCenter=true&width=600&lines=Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Web+%2B+Mobile+%2B+Backend;Aberto+a+colabora%C3%A7%C3%B5es+e+novos+projetos!" />
 </div>
 
 <p align="center">
@@ -25,18 +20,6 @@
 </p>
 
 <br/>
-
-## 👨‍💻 Sobre mim
-
-- 🤖 Fazendo o que tem que ser feito
-- 🌱 Sempre estudando novas tecnologias e boas práticas de código
-- 💻 Interesse em desenvolvimento **Web**, **Mobile** e **Backend**
-- 🤝 Aberto a colaborar em projetos e trocar ideias
-- ⚡ Curioso por natureza — gosto de entender como as coisas funcionam por baixo dos panos
-
-<br/>
-
-## ⚒️ Tech Stack
 
 <div align="center">
 <table cellpadding="8" cellspacing="0">
@@ -88,8 +71,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
 <table>
   <tr>
@@ -108,10 +89,3 @@
   </tr>
 </table>
 </div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
-</picture>
